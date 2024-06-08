@@ -3,7 +3,7 @@
 *A Coding Enthusiast from CEG,Campus Anna university*
 
 
-*Currently Learning:* I'm currently Web Development.
+*Currently Learning:* I'm currently Learn Web Development.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-kani&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkani" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
