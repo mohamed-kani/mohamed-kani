@@ -19,3 +19,11 @@
 </p>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kani&layout=compact&theme=" alt="mohamedkani" />
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-kani&theme=" alt="mohamedkani" /></p>
+## GitHub Stats
+
+![Mohamed Kani's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-kani&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kani&layout=compact&theme=radical)
+
