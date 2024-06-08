@@ -38,7 +38,7 @@
 <h2 align="left" style="color: #e67e22; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📫 Connect with me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-kani-p-k" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="mohamedkani" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/mohd_.kani?igsh=MWhjMW9vdXdlNDI5aA==" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="mohamedkani" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mohd_.kani?igsh=MWhjMW9vdXdlNDI5aA==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/wle8300/instagram-logo/874dffb6fe7e064ae524959b47dae15d6ffcf224/logo.svg" alt="mohamedkani" height="30" width="40" /></a>
 </p>
 
 <h2 align="left" style="color: #e67e22; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">💬 Profile Badge</h2>
