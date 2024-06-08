@@ -30,16 +30,16 @@
 
 <h2 align="left" style="color: #e67e22; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📊 GitHub Stats</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-kani&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="mohamedkani" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kani&layout=compact&theme=gruvbox&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="mohamedkani" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-kani&theme=gruvbox&background=30,e96443,904e95&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="mohamedkani" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-kani&show_icons=true&theme=gruvbox&bg_color=30,0c0c6d,040451&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="mohamedkani" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kani&layout=compact&theme=gruvbox&bg_color=30,0c0c6d,040451&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="mohamedkani" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-kani&theme=gruvbox&background=30,0c0c6d,040451&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="mohamedkani" />
 </div>
 <br>
 
 <h2 align="left" style="color: #e67e22; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📫 Connect with me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-kani-p-k" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="mohamedkani" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/mohd_.kani?igsh=MWhjMW9vdXdlNDI5aA==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="mohamedkani" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mohd_.kani?igsh=MWhjMW9vdXdlNDI5aA==" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="mohamedkani" height="30" width="40" /></a>
 </p>
 
 <h2 align="left" style="color: #e67e22; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">💬 Profile Badge</h2>
