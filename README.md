@@ -30,7 +30,6 @@
 
 <h2 align="left" style="color: #e67e22; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📊 GitHub Stats</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-kani&show_icons=true&theme=gruvbox&bg_color=30,0c0c6d,040451&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="mohamedkani" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kani&layout=compact&theme=gruvbox&bg_color=30,0c0c6d,040451&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="mohamedkani" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-kani&theme=gruvbox&background=30,0c0c6d,040451&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="mohamedkani" />
 </div>
