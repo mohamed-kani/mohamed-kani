@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @mohamed-kani
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Web development
+##  Hi, I'm Mohamed Kani
+
+*A Coding Enthusiast from CEG,Campus Anna university*
 
 
-<!---
-mohamed-kani/mohamed-kani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6b726973686e613138303632303035267468656d653d](https://github.com/mohamed-kani/mohamed-kani/assets/158557487/c767d49a-eb04-41b3-bec5-eb4b01f6d96b)
+*Currently Learning:* I'm currently Web Development.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-kani&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkani" /> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kani&layout=compact&theme=" alt="mohamedkani" />
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-kani&theme=" alt="mohamedkani" /></p>
