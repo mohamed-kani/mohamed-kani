@@ -17,9 +17,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kani&layout=compact&theme=" alt="mohamedkani" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kani&layout=compact&theme=cobalt" alt="mohamedkani" />
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-kani&theme=" alt="mohamedkani" /></p>
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kani&layout=compact&theme=cobalt)
+![Top Languages]()
 
