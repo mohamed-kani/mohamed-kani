@@ -2,8 +2,8 @@
 
 <p align="center" style="font-size: 1.2em; color: #34495e;">A Coding Enthusiast from CEG Campus, Anna University</p>
 
-<h2 style="color: #e67e22;">About Me</h2>
-<ul style="color: #34495e; font-size: 1.1em;">
+<h2 align="left" style="color: #e67e22; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">About Me</h2>
+<ul style="color: #34495e; font-size: 1.1em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <li>🔭 I’m currently working on improving my Web Development skills.</li>
   <li>🌱 I’m currently learning <strong>React.js</strong>.</li>
   <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong>.</li>
@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=mohamed-kani&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkani" /> 
 </p>
 
-<h2 style="color: #e67e22;">🛠️ Languages and Tools:</h2>
+<h2 align="left" style="color: #e67e22; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🛠️ Languages and Tools</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -28,21 +28,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h2 style="color: #e67e22;">📊 GitHub Stats:</h2>
-<div align="center" style="display: flex; justify-content: center;">
+<h2 align="left" style="color: #e67e22; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📊 GitHub Stats</h2>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-kani&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="mohamedkani" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kani&layout=compact&theme=gruvbox&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="mohamedkani" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-kani&theme=gruvbox&background=30,e96443,904e95&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="mohamedkani" />
 </div>
 <br>
 
-<h2 style="color: #e67e22;">📫 Connect with me:</h2>
+<h2 align="left" style="color: #e67e22; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📫 Connect with me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-kani-p-k" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="mohamedkani" height="30" width="40" /></a>
   <a href="https://www.instagram.com/mohd_.kani?igsh=MWhjMW9vdXdlNDI5aA==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="mohamedkani" height="30" width="40" /></a>
 </p>
 
-<h2 style="color: #e67e22;">💬 Profile Badge:</h2>
+<h2 align="left" style="color: #e67e22; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">💬 Profile Badge</h2>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mohamed-kani&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkani" /> 
 </p>
